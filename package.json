@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuanKCoding/PreEntrega3-Irazabal.git"
+    "url": "git+https://github.com/JuanKCoding/PreEntrega3-Irazabal..git"
   },
   "author": "Juan Cruz Irazabal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuanKCoding/PreEntrega3-Irazabal/issues"
+    "url": "https://github.com/JuanKCoding/PreEntrega3-Irazabal./issues"
   },
-  "homepage": "https://github.com/JuanKCoding/PreEntrega3-Irazabal#readme",
-  "dependencies": {
-    "node-sass": "^8.0.0",
+  "homepage": "https://github.com/JuanKCoding/PreEntrega3-Irazabal.#readme",
+  "devDependencies": {
+    "node": "^19.0.1",
     "nodemon": "^2.0.20"
   }
 }
